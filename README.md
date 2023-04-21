@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**akifgoktas/akifgoktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on tercihyap.net
 - 🌱 I’m currently learning nodejs
@@ -13,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: akif.gokts@gmail.com
 - 😄 Pronouns: her
 - ⚡ Fun fact: premier league
--->
+
+LOADİNG...
