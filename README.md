@@ -2,7 +2,7 @@ HI
 
 Jr web developer
 
-Mail: akifgokts@gmail.com
+Mail: akif.gokts@gmail.com
 
 
 LOADİNG...
