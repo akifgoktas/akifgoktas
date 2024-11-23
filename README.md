@@ -1,6 +1,6 @@
 HI
 
-Jr web developer
+web developer
 
 Mail: akif.gokts@gmail.com
 
