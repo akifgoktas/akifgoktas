@@ -1,8 +1,8 @@
 HI
 
-web developer
+Software Developer
 
 Mail: akif.gokts@gmail.com
 
 
-LOADİNG...
+Loading...
